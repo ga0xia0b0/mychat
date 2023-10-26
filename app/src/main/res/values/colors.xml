@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colormychat">#00FFFF</color>
+    <color name="colorLightBlue">#8EE5EE</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkmychat">#00CDCD</color>
+    <color name="colorGrey">#BEBEBE</color>
+    <color name="colorLightGrey">#EAEAEA</color>
+    <color name="colorDarkBlue">#00BFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkGrey">#8A8A8A</color>
+    <color name="colorDarkWhite">#F8F8F8</color>
+    <color name="colorBlue">#1E90FF</color>
+    <color name="colorRed">#FE4620</color>
+    <color name="colorYellow">#FBD917</color>
+    <color name="colorGold">#FFD700</color>
+    <color name="colorPink">#FF7166</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+
+</resources>
